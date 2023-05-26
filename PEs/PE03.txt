@@ -1,0 +1,16 @@
+mower starts
+mower moves forward
+if the cell is mowed stop mower
+otherwise start mower
+if the next cell does not exist move to the right and go downward then
+if the next cell does not exist move to the left and go upward
+repeat steps until no more cells exist then turn off
+
+
+
+
+
+
+
+
+
